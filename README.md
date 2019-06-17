@@ -1,2 +1,2 @@
-# resources
+# Resources
 Diagrams and documentation.
